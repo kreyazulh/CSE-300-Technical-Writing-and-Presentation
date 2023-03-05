@@ -2,7 +2,7 @@
 This repository contains presentation latex codes for CSE-300 Technical Writing and Presentation (July 2022) course.
 
 ## Topic
-Our presentation topic was "Insertion Sort". We have used beamer, tikz to design our slides.
+Our presentation topic was "Insertion Sort". We have used beamer, tikz to design our slides. Run the pdf file on Adobe Acrobat Reader to see animation part.
 
 ## Team
 1. Kazi Reyazul Hasan (1905082)
